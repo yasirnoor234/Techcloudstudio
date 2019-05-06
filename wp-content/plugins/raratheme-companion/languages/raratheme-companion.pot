@@ -1,0 +1,803 @@
+# Copyright (C) 2019 Rara Theme
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: RaraTheme Companion 1.2.6\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/raratheme-companion\n"
+"POT-Creation-Date: 2019-04-26 11:54:05+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: admin/class-raratheme-companion-admin.php:154
+#: admin/class-raratheme-companion-admin.php:166
+#: includes/class-raratheme-companion-functions.php:604
+msgid "Upload"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:155
+#: admin/class-raratheme-companion-admin.php:167
+#: includes/class-raratheme-companion-functions.php:606
+msgid "Change"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:156
+msgid "Please upload a valid image file."
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:163
+msgid "Are you sure?"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:168
+#: includes/class-raratheme-companion-functions.php:623
+msgid "Please upload valid image file."
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:174
+msgid "Are you sure you want to delete this Social Media?"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:199
+#: includes/widgets/widget-faqs.php:100 includes/widgets/widget-faqs.php:115
+msgid "Question"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:201
+#: includes/widgets/widget-faqs.php:102 includes/widgets/widget-faqs.php:117
+msgid "Answer"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:217
+msgid "Portfolio"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:218
+msgid "Portfolios"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:249
+msgid "%s Archives"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:250
+msgid "%s Attributes"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:251
+msgid "%s Parent"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:252
+msgid "All %s"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:253
+msgid "Add New %s"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:254
+msgid "Add New"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:255
+msgid "New %s"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:256
+msgid "Edit %s"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:257
+msgid "Update %s"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:258
+#: admin/class-raratheme-companion-admin.php:259
+msgid "View %s"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:260
+msgid "Search %s"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:261
+msgid "Not found"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:262
+msgid "Not found in Trash"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:263
+msgid "Featured Image"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:264
+msgid "Set featured image"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:265
+msgid "Remove featured image"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:266
+msgid "Use as featured image"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:267
+msgid "Insert into %s"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:268
+msgid "Uploaded to this %s"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:269
+msgid "%s list"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:270
+msgid "%s list navigation"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:271
+msgid "Filter %s list"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:275
+msgid "%s Post Type"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:310
+#: admin/class-raratheme-companion-admin.php:311
+#: admin/class-raratheme-companion-admin.php:320
+msgid "%s Categories"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:312
+msgid "Search Categories"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:313
+msgid "All Categories"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:314
+msgid "Parent Categories"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:315
+msgid "Parent Categories:"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:316
+msgid "Edit Categories"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:317
+msgid "Update Categories"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:318
+msgid "Add New Categories"
+msgstr ""
+
+#: admin/class-raratheme-companion-admin.php:319
+msgid "New Categories Name"
+msgstr ""
+
+#: includes/class-raratheme-companion-functions.php:23
+msgid "Search Icon"
+msgstr ""
+
+#: includes/class-raratheme-companion-functions.php:601
+msgid "No file chosen"
+msgstr ""
+
+#: includes/class-raratheme-companion-functions.php:609
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: includes/class-raratheme-companion-functions.php:615
+msgid "Remove Image"
+msgstr ""
+
+#: includes/class-raratheme-companion-templates.php:51
+msgid "Portfolio Template"
+msgstr ""
+
+#: includes/templates/portfolio.php:22
+msgid "All"
+msgstr ""
+
+#: includes/templates/single-rara-portfolio.php:39
+msgid "Related Projects"
+msgstr ""
+
+#: includes/widgets/widget-client-logo.php:25
+msgid "Rara: Client Logo"
+msgstr ""
+
+#: includes/widgets/widget-client-logo.php:26
+msgid "A Client Logo Widget."
+msgstr ""
+
+#: includes/widgets/widget-client-logo.php:130
+#: includes/widgets/widget-contact.php:240 includes/widgets/widget-cta.php:189
+#: includes/widgets/widget-icon-text.php:116
+#: includes/widgets/widget-image.php:112
+#: includes/widgets/widget-popular-post.php:198
+#: includes/widgets/widget-recent-post.php:130
+#: includes/widgets/widget-social-links.php:221
+#: includes/widgets/widget-stat-counter.php:140
+#: includes/widgets/widget-twitter-feeds.php:117
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/widget-client-logo.php:135
+msgid "Display logo in black and white"
+msgstr ""
+
+#: includes/widgets/widget-client-logo.php:139
+#: includes/widgets/widget-cta.php:232
+#: includes/widgets/widget-popular-post.php:245
+#: includes/widgets/widget-recent-post.php:150
+#: includes/widgets/widget-social-links.php:225
+msgid "Open in New Tab"
+msgstr ""
+
+#: includes/widgets/widget-client-logo.php:154
+#: includes/widgets/widget-cta.php:253
+#: includes/widgets/widget-icon-text.php:125
+#: includes/widgets/widget-image.php:149
+#: includes/widgets/widget-stat-counter.php:168
+#: includes/widgets/widget-testimonial.php:116
+msgid "Upload Image"
+msgstr ""
+
+#: includes/widgets/widget-client-logo.php:155
+#: includes/widgets/widget-image.php:127
+msgid "Featured Link"
+msgstr ""
+
+#: includes/widgets/widget-client-logo.php:166
+msgid "Add Another Logo"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:44
+msgid "Rara: Contact Widget"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:45
+msgid "A Contact Widget"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:60
+#: includes/widgets/widget-contact.php:299
+#: includes/widgets/widget-social-links.php:60
+#: includes/widgets/widget-social-links.php:258
+msgid "Social Icon"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:62
+#: includes/widgets/widget-social-links.php:62
+msgid "Search Social Icons"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:63
+#: includes/widgets/widget-contact.php:302
+#: includes/widgets/widget-social-links.php:63
+#: includes/widgets/widget-social-links.php:261
+msgid "Link"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:104
+#: includes/widgets/widget-contact.php:250
+msgid "Phone"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:105
+#: includes/widgets/widget-contact.php:255
+msgid "Email"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:106
+#: includes/widgets/widget-contact.php:260
+msgid "Address"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:245 includes/widgets/widget-cta.php:194
+#: includes/widgets/widget-icon-text.php:121
+#: includes/widgets/widget-team-member.php:208
+msgid "Description"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:267
+msgid "Open Social Links in New Tab"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:317
+#: includes/widgets/widget-social-links.php:276
+msgid "Add Social Icon"
+msgstr ""
+
+#: includes/widgets/widget-contact.php:318
+#: includes/widgets/widget-social-links.php:277
+msgid ""
+"Click on the above button to add social media icons. You can also change "
+"the order of the social icons."
+msgstr ""
+
+#: includes/widgets/widget-cta.php:26
+msgid "Rara: Call To Action"
+msgstr ""
+
+#: includes/widgets/widget-cta.php:27
+msgid "A Call To Action Widget."
+msgstr ""
+
+#: includes/widgets/widget-cta.php:199
+msgid "Number of Call-to-Action Buttons:"
+msgstr ""
+
+#: includes/widgets/widget-cta.php:211
+msgid "Button 1 Label"
+msgstr ""
+
+#: includes/widgets/widget-cta.php:215
+msgid "Button 1 Link"
+msgstr ""
+
+#: includes/widgets/widget-cta.php:222
+msgid "Button 2 Label"
+msgstr ""
+
+#: includes/widgets/widget-cta.php:226
+msgid "Button 2 Link"
+msgstr ""
+
+#: includes/widgets/widget-cta.php:237
+msgid "Button Alignment:"
+msgstr ""
+
+#: includes/widgets/widget-cta.php:248
+msgid "Background Color"
+msgstr ""
+
+#: includes/widgets/widget-faqs.php:25
+msgid "Rara: FAQs"
+msgstr ""
+
+#: includes/widgets/widget-faqs.php:26
+msgid "A Widget for FAQs."
+msgstr ""
+
+#: includes/widgets/widget-faqs.php:53
+msgid "Expand/Close"
+msgstr ""
+
+#: includes/widgets/widget-faqs.php:93
+msgid "Enable FAQs Toggle"
+msgstr ""
+
+#: includes/widgets/widget-faqs.php:127
+msgid "Add FAQs"
+msgstr ""
+
+#: includes/widgets/widget-featured-page.php:25
+msgid "Rara: A Featured Page Widget"
+msgstr ""
+
+#: includes/widgets/widget-featured-page.php:26
+msgid "A Featured Page Widget"
+msgstr ""
+
+#: includes/widgets/widget-featured-page.php:33
+msgid "Right"
+msgstr ""
+
+#: includes/widgets/widget-featured-page.php:34
+msgid "Left"
+msgstr ""
+
+#: includes/widgets/widget-featured-page.php:35
+msgid "Centered"
+msgstr ""
+
+#: includes/widgets/widget-featured-page.php:49
+#: includes/widgets/widget-featured-page.php:152
+#: includes/widgets/widget-featured-page.php:245
+msgid "Read More"
+msgstr ""
+
+#: includes/widgets/widget-featured-page.php:138
+#: includes/widgets/widget-featured.php:96
+msgid "--Choose--"
+msgstr ""
+
+#: includes/widgets/widget-featured-page.php:160
+#: includes/widgets/widget-posts-category-slider.php:214
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/widget-featured-page.php:165
+msgid "Page:"
+msgstr ""
+
+#: includes/widgets/widget-featured-page.php:176
+msgid "Show Featured Image"
+msgstr ""
+
+#: includes/widgets/widget-featured-page.php:183
+msgid "Show Page Title"
+msgstr ""
+
+#: includes/widgets/widget-featured-page.php:190
+msgid "Show Page Full Content"
+msgstr ""
+
+#: includes/widgets/widget-featured-page.php:196
+#: includes/widgets/widget-featured.php:124
+msgid "Read More Text"
+msgstr ""
+
+#: includes/widgets/widget-featured-page.php:203
+msgid "Show Read More"
+msgstr ""
+
+#: includes/widgets/widget-featured-page.php:209
+#: includes/widgets/widget-icon-text.php:150
+#: includes/widgets/widget-image.php:132
+#: includes/widgets/widget-team-member.php:215
+msgid "Open in Same Tab"
+msgstr ""
+
+#: includes/widgets/widget-featured.php:25
+msgid "Rara: Featured Widget"
+msgstr ""
+
+#: includes/widgets/widget-featured.php:26
+msgid "A Featured Widget"
+msgstr ""
+
+#: includes/widgets/widget-featured.php:114
+msgid "Posts"
+msgstr ""
+
+#: includes/widgets/widget-featured.php:130
+#: includes/widgets/widget-popular-post.php:217
+#: includes/widgets/widget-recent-post.php:141
+msgid "Show Post Thumbnail"
+msgstr ""
+
+#: includes/widgets/widget-icon-text.php:25
+msgid "Rara: Icon Text"
+msgstr ""
+
+#: includes/widgets/widget-icon-text.php:26
+msgid "An Icon Text Widget."
+msgstr ""
+
+#: includes/widgets/widget-icon-text.php:127
+msgid "or"
+msgstr ""
+
+#: includes/widgets/widget-icon-text.php:130
+#: includes/widgets/widget-stat-counter.php:155
+msgid "Icons"
+msgstr ""
+
+#: includes/widgets/widget-icon-text.php:145
+msgid "Read More Label"
+msgstr ""
+
+#: includes/widgets/widget-icon-text.php:155
+msgid "Read More Link"
+msgstr ""
+
+#: includes/widgets/widget-image.php:25
+msgid "Rara: Image Widget"
+msgstr ""
+
+#: includes/widgets/widget-image.php:26
+msgid "An Image Widget."
+msgstr ""
+
+#: includes/widgets/widget-image.php:117
+msgid "Content"
+msgstr ""
+
+#: includes/widgets/widget-image.php:122
+msgid "Button label"
+msgstr ""
+
+#: includes/widgets/widget-image.php:137
+msgid "Image Size"
+msgstr ""
+
+#: includes/widgets/widget-image.php:140
+msgid "Select image size"
+msgstr ""
+
+#: includes/widgets/widget-popular-post.php:28
+msgid "Rara: Popular Post"
+msgstr ""
+
+#: includes/widgets/widget-popular-post.php:29
+msgid "A Popular Post Widget"
+msgstr ""
+
+#: includes/widgets/widget-popular-post.php:66
+msgid "0 View"
+msgstr ""
+
+#: includes/widgets/widget-popular-post.php:68
+msgid " View"
+msgstr ""
+
+#: includes/widgets/widget-popular-post.php:70
+msgid " Views"
+msgstr ""
+
+#: includes/widgets/widget-popular-post.php:84
+#: includes/widgets/widget-popular-post.php:186
+#: includes/widgets/widget-popular-post.php:279
+msgid "Popular Posts"
+msgstr ""
+
+#: includes/widgets/widget-popular-post.php:203
+#: includes/widgets/widget-recent-post.php:135
+msgid "Number of Posts"
+msgstr ""
+
+#: includes/widgets/widget-popular-post.php:208
+msgid "Popular based on:"
+msgstr ""
+
+#: includes/widgets/widget-popular-post.php:210
+msgid "Post Views"
+msgstr ""
+
+#: includes/widgets/widget-popular-post.php:211
+msgid "Comment Count"
+msgstr ""
+
+#: includes/widgets/widget-popular-post.php:222
+#: includes/widgets/widget-recent-post.php:146
+msgid "Show Post Date"
+msgstr ""
+
+#: includes/widgets/widget-popular-post.php:229
+msgid "Show number of comments"
+msgstr ""
+
+#: includes/widgets/widget-popular-post.php:238
+msgid "Show number of views"
+msgstr ""
+
+#: includes/widgets/widget-posts-category-slider.php:18
+msgid "Rara: Posts Category Slider"
+msgstr ""
+
+#: includes/widgets/widget-posts-category-slider.php:21
+msgid "Simple posts slider from category."
+msgstr ""
+
+#: includes/widgets/widget-posts-category-slider.php:97
+msgid "View all posts in %s"
+msgstr ""
+
+#: includes/widgets/widget-posts-category-slider.php:179
+msgid "New title"
+msgstr ""
+
+#: includes/widgets/widget-posts-category-slider.php:219
+msgid "Category:"
+msgstr ""
+
+#: includes/widgets/widget-posts-category-slider.php:228
+msgid "Number of Slides:"
+msgstr ""
+
+#: includes/widgets/widget-posts-category-slider.php:230
+msgid ""
+"Total number of posts available in the selected category will be the "
+"maximum number of slides."
+msgstr ""
+
+#: includes/widgets/widget-posts-category-slider.php:235
+msgid "Show Slider Arrows"
+msgstr ""
+
+#: includes/widgets/widget-posts-category-slider.php:240
+msgid "Show Slider Pagination"
+msgstr ""
+
+#: includes/widgets/widget-posts-category-slider.php:245
+msgid "Change Direction"
+msgstr ""
+
+#: includes/widgets/widget-posts-category-slider.php:246
+msgid ""
+"Enabling this will change slider direction from 'right to left' to 'left to "
+"right'."
+msgstr ""
+
+#: includes/widgets/widget-posts-category-slider.php:250
+msgid "Open Posts in New Tab"
+msgstr ""
+
+#: includes/widgets/widget-recent-post.php:25
+msgid "Rara: Recent Post"
+msgstr ""
+
+#: includes/widgets/widget-recent-post.php:26
+msgid "A Recent Post Widget"
+msgstr ""
+
+#: includes/widgets/widget-recent-post.php:40
+#: includes/widgets/widget-recent-post.php:122
+#: includes/widgets/widget-recent-post.php:169
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/widgets/widget-recent-post.php:95
+msgid "%1$s"
+msgstr ""
+
+#: includes/widgets/widget-social-links.php:44
+msgid "Rara: Social Media"
+msgstr ""
+
+#: includes/widgets/widget-social-links.php:45
+msgid "A Social Links Widget"
+msgstr ""
+
+#: includes/widgets/widget-social-links.php:204
+msgid "Subscribe and Follow"
+msgstr ""
+
+#: includes/widgets/widget-stat-counter.php:25
+msgid "Rara: Stat Counter Widget"
+msgstr ""
+
+#: includes/widgets/widget-stat-counter.php:26
+msgid "Widget for stat counter."
+msgstr ""
+
+#: includes/widgets/widget-stat-counter.php:145
+msgid "Counter"
+msgstr ""
+
+#: includes/widgets/widget-stat-counter.php:151
+msgid "Disable Comma(,) Separation"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:25
+msgid "Rara: Team Member"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:26
+msgid "A Team Member Widget."
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:144
+msgid "closepopup"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:198
+#: includes/widgets/widget-testimonial.php:101
+msgid "Name"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:203
+#: includes/widgets/widget-testimonial.php:106
+msgid "Designation"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:212
+msgid "Upload Photo"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:220
+msgid "LinkedIn Profile"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:226
+msgid "Twitter Profile"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:230
+msgid "Facebook Profile"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:234
+msgid "Instagram Profile"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:238
+msgid "YouTube Profile"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:242
+msgid "Dribbble Profile"
+msgstr ""
+
+#: includes/widgets/widget-team-member.php:246
+msgid "Behance Profile"
+msgstr ""
+
+#: includes/widgets/widget-testimonial.php:25
+msgid "Rara: Testimonial"
+msgstr ""
+
+#: includes/widgets/widget-testimonial.php:26
+msgid "A Testimonial Widget."
+msgstr ""
+
+#: includes/widgets/widget-testimonial.php:111
+msgid "Testimonial"
+msgstr ""
+
+#: includes/widgets/widget-twitter-feeds.php:43
+msgid "RARA: Latest Tweets"
+msgstr ""
+
+#: includes/widgets/widget-twitter-feeds.php:44
+msgid "A widget that shows latest tweets"
+msgstr ""
+
+#: includes/widgets/widget-twitter-feeds.php:121
+msgid "Theme"
+msgstr ""
+
+#: includes/widgets/widget-twitter-feeds.php:122
+#: includes/widgets/widget-twitter-feeds.php:123
+msgid "Choose a theme&hellip;"
+msgstr ""
+
+#: includes/widgets/widget-twitter-feeds.php:135
+msgid "Twitter Username"
+msgstr ""
+
+#: includes/widgets/widget-twitter-feeds.php:140
+msgid "Border Color"
+msgstr ""
+
+#: includes/widgets/widget-twitter-feeds.php:145
+msgid "Link Color"
+msgstr ""
+
+#: includes/widgets/widget-twitter-feeds.php:150
+msgid "Widget Width"
+msgstr ""
+
+#: includes/widgets/widget-twitter-feeds.php:155
+msgid "Number of tweets"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "RaraTheme Companion"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/raratheme-companion"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "14 extremely useful custom widgets to create an engaging website."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rara Theme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://raratheme.com/"
+msgstr ""

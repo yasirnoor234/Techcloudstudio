@@ -1,0 +1,652 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-04-10 10:22+0000\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: includes/class-rrdi-helpers.php:70
+#, php-format
+msgid ""
+"\"import_file_url\" or \"local_import_file\" for %s%s%s are not defined!"
+msgstr ""
+
+#: includes/class-rrdi-helpers.php:176
+#, php-format
+msgid "URL for %s%s%s file is not defined!"
+msgstr ""
+
+#: includes/class-rrdi-helpers.php:198
+#, php-format
+msgid ""
+"An error occurred while fetching %s%s%s file from the server!%sReason: %s - "
+"%s."
+msgstr ""
+
+#: includes/class-rrdi-helpers.php:238 includes/class-rrdi-helpers.php:282
+#, php-format
+msgid ""
+"An error occurred while writing file to your server! Tried to write a file "
+"to: %s%s."
+msgstr ""
+
+#: includes/class-rrdi-helpers.php:317
+#, php-format
+msgid ""
+"An error occurred while reading a file from your server! Tried reading file "
+"from path: %s%s."
+msgstr ""
+
+#: includes/class-rrdi-helpers.php:341
+#, php-format
+msgid ""
+"This WordPress page does not have %sdirect%s write file access. This plugin "
+"needs it in order to save the demo import xml file to the upload directory "
+"of your site. You can change this setting with these instructions: %s."
+msgstr ""
+
+#. Name of the plugin
+#: includes/class-rrdi-helpers.php:352 includes/class-rrdi-main.php:75
+#: includes/class-rrdi-main.php:99
+msgid "Rara One Click Demo Import"
+msgstr ""
+
+#: includes/class-rrdi-helpers.php:353 includes/class-rrdi-main.php:76
+msgid "Rara Demo Import"
+msgstr ""
+
+#: includes/class-rrdi-helpers.php:365
+msgid ""
+"An error occurred while retrieving reading/writing permissions to your "
+"server (could not retrieve WP filesystem credentials)!"
+msgstr ""
+
+#: includes/class-rrdi-helpers.php:373
+msgid "Your WordPress login credentials don't allow to use WP_Filesystem!"
+msgstr ""
+
+#: includes/class-rrdi-helpers.php:438
+msgid "Rara One Click Demo Import - "
+msgstr ""
+
+#: includes/class-rrdi-helpers.php:474
+#, php-format
+msgid ""
+"%sYour user role isn't high enough. You don't have permission to import demo "
+"data.%s"
+msgstr ""
+
+#: includes/class-rrdi-helpers.php:510
+msgid ""
+"Please upload XML file for content import. If you want to import widgets or "
+"customizer settings only, please use Widget Importer & Exporter or the "
+"Customizer Export/Import plugin."
+msgstr ""
+
+#: includes/class-rrdi-helpers.php:512 includes/class-rrdi-helpers.php:534
+#: includes/class-rrdi-helpers.php:553 includes/class-rrdi-helpers.php:561
+msgid "Upload files"
+msgstr ""
+
+#: includes/class-rrdi-helpers.php:530
+#, php-format
+msgid "Widget file was not uploaded. Error: %s"
+msgstr ""
+
+#: includes/class-rrdi-helpers.php:549
+#, php-format
+msgid "Customizer file was not uploaded. Error: %s"
+msgstr ""
+
+#: includes/class-rrdi-helpers.php:559
+msgid "The import files were successfully uploaded!"
+msgstr ""
+
+#: includes/class-rrdi-helpers.php:577
+#, php-format
+msgid "Initial max execution time = %s"
+msgstr ""
+
+#: includes/class-rrdi-helpers.php:581
+#, php-format
+msgid ""
+"Files info:%1$sSite URL = %2$s%1$sData file = %3$s%1$sWidget file = "
+"%4$s%1$sCustomizer file = %5$s"
+msgstr ""
+
+#: includes/class-rrdi-helpers.php:585 includes/class-rrdi-helpers.php:586
+msgid "not defined!"
+msgstr ""
+
+#: includes/class-rrdi-init.php:22
+#, php-format
+msgid ""
+"The %2$sRara One Click Demo Import%3$s plugin requires %2$sPHP 5.3.2+%3$s to "
+"run properly. Please contact your hosting company and ask them to update the "
+"PHP version of your site to at least PHP 5.3.2.%4$s Your current version of "
+"PHP: %2$s%1$s%3$s"
+msgstr ""
+
+#: includes/class-rrdi-main.php:93
+msgid "Before you begin, make sure all the required plugins are activated."
+msgstr ""
+
+#: includes/class-rrdi-main.php:106
+#, php-format
+msgid ""
+"%sWarning: your server is using %sPHP safe mode%s. This means that you might "
+"experience server timeout errors.%s"
+msgstr ""
+
+#: includes/class-rrdi-main.php:121
+msgid ""
+"Upload your theme’s live demo content and settings with a click. If your "
+"theme comes with the demo content bundled with it, just click “Import Now” "
+"button. Otherwise, select files to import and click “Import Now”. As simple "
+"as that."
+msgstr ""
+
+#: includes/class-rrdi-main.php:124
+msgid "The following data will be imported:"
+msgstr ""
+
+#: includes/class-rrdi-main.php:127
+msgid "Posts"
+msgstr ""
+
+#: includes/class-rrdi-main.php:128
+msgid "Pages"
+msgstr ""
+
+#: includes/class-rrdi-main.php:129
+msgid "Images"
+msgstr ""
+
+#: includes/class-rrdi-main.php:130
+msgid "Widgets"
+msgstr ""
+
+#: includes/class-rrdi-main.php:131
+msgid "Menus"
+msgstr ""
+
+#: includes/class-rrdi-main.php:132
+msgid "Settings"
+msgstr ""
+
+#: includes/class-rrdi-main.php:135
+msgid ""
+"NOTE: Please import the demo content only on fresh WordPress installation. "
+"You can reset your WordPress Installation using any reset plugin like WP "
+"Reset by WP Dev."
+msgstr ""
+
+#: includes/class-rrdi-main.php:152
+msgid ""
+"No predefined import files are available in this theme. Please upload the "
+"import files manually."
+msgstr ""
+
+#: includes/class-rrdi-main.php:157
+msgid "Please, select the following files."
+msgstr ""
+
+#: includes/class-rrdi-main.php:160
+msgid "Choose a XML file for content import:"
+msgstr ""
+
+#: includes/class-rrdi-main.php:165
+msgid "Choose a WIE or JSON file for widget import:"
+msgstr ""
+
+#: includes/class-rrdi-main.php:165 includes/class-rrdi-main.php:170
+msgid "(*optional)"
+msgstr ""
+
+#: includes/class-rrdi-main.php:170
+msgid "Choose a DAT file for customizer import:"
+msgstr ""
+
+#: includes/class-rrdi-main.php:180
+msgid "Choose which demo you want to import:"
+msgstr ""
+
+#: includes/class-rrdi-main.php:205
+msgid "Import preview:"
+msgstr ""
+
+#: includes/class-rrdi-main.php:209 includes/class-rrdi-main.php:264
+msgid "No preview image defined for this import."
+msgstr ""
+
+#: includes/class-rrdi-main.php:231
+msgid "Import Now"
+msgstr ""
+
+#: includes/class-rrdi-main.php:232
+msgid ""
+"Click the button to beign the importing process. Please be patient, the "
+"process might take a few minutes."
+msgstr ""
+
+#: includes/class-rrdi-main.php:236
+msgid "Importing now, please wait!"
+msgstr ""
+
+#: includes/class-rrdi-main.php:321
+msgid "Manually uploaded files"
+msgstr ""
+
+#: includes/class-rrdi-main.php:338 includes/class-rrdi-main.php:349
+msgid "Downloaded files"
+msgstr ""
+
+#: includes/class-rrdi-main.php:345
+#, php-format
+msgid "The import files for: %s were successfully downloaded!"
+msgstr ""
+
+#: includes/class-rrdi-main.php:355
+msgid "No import files specified!"
+msgstr ""
+
+#: includes/class-rrdi-main.php:402
+#, php-format
+msgid ""
+"%1$s%3$sCompleted Successfully!%4$s%2$sThe process has finished. Please "
+"check your page and make sure that everything has been imported correctly. "
+"If you want, you can now deactivate the %3$sRara One Click Demo Import%4$s "
+"plugin.%5$s"
+msgstr ""
+
+#: includes/class-rrdi-main.php:413
+#, php-format
+msgid ""
+"%1$sUnfortunately, demo import has finished with some errors.%2$sMore "
+"details about the errors can be found in this %3$s%5$slog file%6$s%4$s%7$s"
+msgstr ""
+
+#: includes/class-rrdi-main.php:467
+msgid "Max execution time after content import = "
+msgstr ""
+
+#: includes/class-rrdi-main.php:469
+msgid "Importing content"
+msgstr ""
+
+#: includes/class-rrdi-main.php:508 includes/class-rrdi-main.php:520
+msgid "Importing widgets"
+msgstr ""
+
+#: includes/class-rrdi-main.php:542 includes/class-rrdi-main.php:550
+msgid "Importing customizer settings"
+msgstr ""
+
+#: includes/class-rrdi-main.php:548
+msgid "Customizer settings import finished!"
+msgstr ""
+
+#: includes/class-rrdi-main.php:600
+msgid "Completed AJAX call number: "
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:130
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:166
+#: includes/extras/class-wxr-importer.php:282
+#: includes/extras/class-wxr-importer.php:355
+#, php-format
+msgid ""
+"This WXR file (version %s) is newer than the importer (version %s) and may "
+"not be supported. Please consider updating."
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:504
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:564
+msgid "Invalid author mapping"
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:665
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:753
+#, php-format
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:763
+#, php-format
+msgid "%s \"%s\" already exists."
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:841
+#, php-format
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:855
+#, php-format
+msgid "Failed to import \"%s\" (%s)"
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:887
+#: includes/extras/class-wxr-importer.php:1705
+#, php-format
+msgid "Imported \"%s\" (%s)"
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:892
+#, php-format
+msgid "Post %d remapped to %d"
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:1036
+msgid "Invalid file type"
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:1519
+#, php-format
+msgid "Failed to import user \"%s\""
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:1540
+#, php-format
+msgid "Imported user \"%s\""
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:1544
+#, php-format
+msgid "User %d remapped to %d"
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:1681
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:1710
+#, php-format
+msgid "Term %d remapped to %d"
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:1763
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:1776
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:1781
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:1787
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#. for when debug logging is off
+#: includes/extras/class-wxr-importer.php:1809
+#, php-format
+msgid "Running post-processing for post %d"
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:1822
+#, php-format
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:1827
+#, php-format
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:1841
+#, php-format
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:1846
+#, php-format
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:1872
+#, php-format
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:1883
+#, php-format
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:1928
+#, php-format
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:1933
+#, php-format
+msgid ""
+"Post %d was imported with object \"%d\" of type \"%s\", but could not be "
+"found"
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:1955
+#, php-format
+msgid "Could not find the comment parent for comment #%d"
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:1959
+#, php-format
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:1973
+#, php-format
+msgid "Could not find the author for comment #%d"
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:1977
+#, php-format
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr ""
+
+#: includes/extras/class-wxr-importer.php:1994
+#, php-format
+msgid "Could not update comment #%d with mapped data"
+msgstr ""
+
+#: includes/vendor/class-rrdi-customizer-importer.php:36
+#, php-format
+msgid "The customizer import file is missing! File path: %s"
+msgstr ""
+
+#: includes/vendor/class-rrdi-customizer-importer.php:56
+msgid ""
+"No correct file format. Please make sure to use the correct customizer "
+"import file."
+msgstr ""
+
+#: includes/vendor/class-rrdi-customizer-importer.php:62
+msgid ""
+"The customizer import file is not suitable for current theme. You can only "
+"import customizer settings for the same theme or a child theme."
+msgstr ""
+
+#: includes/vendor/class-rrdi-widget-importer.php:44
+msgid "Widget import file could not be found."
+msgstr ""
+
+#: includes/vendor/class-rrdi-widget-importer.php:76
+msgid "Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: includes/vendor/class-rrdi-widget-importer.php:116
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: includes/vendor/class-rrdi-widget-importer.php:138
+msgid "Site does not support widget"
+msgstr ""
+
+#: includes/vendor/class-rrdi-widget-importer.php:173
+msgid "Widget already exists"
+msgstr ""
+
+#: includes/vendor/class-rrdi-widget-importer.php:232
+msgid "Imported"
+msgstr ""
+
+#: includes/vendor/class-rrdi-widget-importer.php:236
+msgid "Imported to Inactive"
+msgstr ""
+
+#: includes/vendor/class-rrdi-widget-importer.php:242
+msgid "No Title"
+msgstr ""
+
+#: includes/vendor/class-rrdi-widget-importer.php:291
+msgid "No results for widget import!"
+msgstr ""
+
+#. Allthough correct, this should fail.
+#. Allthough correct, this should fail.
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:3
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:5
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:9
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:10
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:14
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:15
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:4
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:6
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:10
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:11
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:15
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:16
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:3
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:5
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:9
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:10
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:14
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:15
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:3
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:5
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:9
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:10
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:14
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:15
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:3
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:5
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:9
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:10
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:14
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:15
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:4
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:6
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:10
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:11
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:15
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:16
+msgid "Hello World"
+msgstr ""
+
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:4
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:6
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:11
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:16
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:5
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:7
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:12
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:17
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:4
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:6
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:11
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:16
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:4
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:6
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:11
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:16
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:4
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:6
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:11
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:16
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:5
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:7
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:12
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:17
+msgctxt "verb"
+msgid "Post"
+msgstr ""
+
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:20
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:24
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:21
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:25
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:20
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:24
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:20
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:24
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:20
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:24
+#: node_modules/grunt-checktextdomain/test/fixtures/plurals.php:3
+#: node_modules/grunt-checktextdomain/test/fixtures/plurals.php:8
+#: node_modules/grunt-checktextdomain/test/fixtures/plurals.php:15
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:21
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:25
+#, php-format
+msgid "%d apple"
+msgid_plural "%d apples"
+msgstr[0] ""
+msgstr[1] ""
+
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:21
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:25
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:22
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:26
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:21
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:25
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:21
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:25
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:21
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:25
+#: node_modules/grunt-checktextdomain/test/fixtures/plurals.php:4
+#: node_modules/grunt-checktextdomain/test/fixtures/plurals.php:9
+#: node_modules/grunt-checktextdomain/test/fixtures/plurals.php:16
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:22
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:26
+#, php-format
+msgctxt "noun, job positions"
+msgid "%d post"
+msgid_plural "%d posts"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Description of the plugin
+msgid ""
+"Importing your theme's live demo content, widgets and settings is just one "
+"click away."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/rrdi/"
+msgstr ""
+
+#. Author of the plugin
+msgid "raratheme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.raratheme.com"
+msgstr ""

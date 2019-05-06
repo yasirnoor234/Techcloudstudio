@@ -1,0 +1,307 @@
+/*
+Theme Name: Rara Business
+
+Adding support for languages written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right-to-Left_Language_Support
+
+*/
+
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+.site-header .header-t .contact-info{
+	float: right;
+}
+
+.site-header .social-networks{
+	float: left;
+}
+
+
+.site-header .social-networks li{
+	float: right;
+	margin-left: 0;
+	margin-right: 25px;
+}
+
+
+.site-header .social-networks li:first-child{
+	margin-right: 0;
+}
+
+.site-header .header-t .contact-info div{
+	float: right;
+	margin-left: 30px;
+	margin-right: 0;
+}
+
+.site-header .header-t .contact-info .fa{
+	margin-left: 5px;
+	margin-right: 0;
+}
+
+.site-branding{
+	float: right;
+}
+
+.main-header .right{
+	float: left;
+}
+
+.main-header .right .btn-buy .fa{
+	margin-left: 7px;
+	margin-right: 0;
+}
+
+.main-header .right .btn-buy{
+	float: left;
+	margin-right: 25px;
+	margin-left: 0;
+}
+
+@media only screen and (min-width: 1025px) {
+
+    .main-navigation ul .menu-item-has-children {
+        padding-right: 0;
+        padding-left: 20px;
+    }
+
+    .main-navigation ul .menu-item-has-children::before {
+        left: 0;
+        right: auto;
+    }
+
+    .main-navigation ul li {
+        float: right;
+        margin-left: 0;
+        margin-right: 35px;
+    }
+
+    .main-navigation ul li:first-child {
+        margin-right: 0;
+    }
+
+    .main-navigation ul {
+        padding-right: 0;
+    }
+
+    .main-navigation ul ul ul {
+        left: auto;
+        right: 100%;
+        padding-left: 0;
+        padding-right: 3px;
+    }
+}
+
+
+
+.banner .banner-text .btn-holder .btn-free-inquiry .fa{
+	margin-right: 0;
+	margin-left: 8px;
+}
+
+.our-features .widget_rrtc_icon_text_widget .rtc-itw-inner-holder .icon-holder{
+	margin-right: 0;
+	margin-left: 10px;
+}
+
+.widget_rrtc_testimonial_widget .text-holder .testimonial-meta{
+	left: auto;
+	right: 90px;
+}
+
+.widget_raratheme_companion_stat_counter_widget .raratheme-sc-holder .icon-holder{
+	left: auto;
+	right: 0;
+}
+
+.widget_raratheme_companion_stat_counter_widget .raratheme-sc-holder{
+	padding-left:0;
+	padding-right: 70px;
+}
+
+.cta .widget .right .button-wrap{
+	right: auto;
+	left: 0;
+}
+
+.cta .widget .right{
+	text-align: right;
+}
+
+.faq-section .widget .accordion li .toggle{
+	padding-right: 0;
+	padding-left: 30px;
+}
+
+
+
+.faq-section .widget .accordion li .toggle::before{
+	left: 7px;
+	right: auto;
+}
+
+.faq-section .widget .accordion li .toggle::after{
+	left: 0;
+	right: auto;
+}
+
+.widget_search .search-form input[type="submit"],
+.error-holder .text-holder .search-form input[type="submit"]{
+	float: left;
+	-webkit-transform: rotate(108deg);
+	transform: rotate(108deg);
+}
+
+.widget_search .search-form label{
+	float: right;
+}
+
+.widget_search .search-form input[type="search"]{
+	float: right;
+}
+
+#primary .post .entry-footer .btn-readmore{
+	float: right;
+}
+
+#secondary .widget_recent_entries ul li, #secondary .widget_recent_comments ul li, #secondary .widget_archive ul li, #secondary .widget_categories ul li, #secondary .widget_meta ul li, #secondary .widget_nav_menu ul li, #secondary .widget_pages ul li, .widget_rss ul li, .woocommerce .woocommerce-widget-layered-nav-list .woocommerce-widget-layered-nav-list__item, .widget_product_categories ul li{
+	padding-left: 0;
+	padding-right: 20px;
+}
+
+#secondary .widget_recent_entries ul li::before, #secondary .widget_recent_comments ul li::before, #secondary .widget_archive ul li::before, #secondary .widget_categories ul li::before, #secondary .widget_meta ul li::before, #secondary .widget_nav_menu ul li::before, #secondary .widget_pages ul li::before, .widget_rss ul li::before, .woocommerce .woocommerce-widget-layered-nav-list .woocommerce-widget-layered-nav-list__item::before, .widget_product_categories ul li::before{
+	left: auto;
+	right: 0;
+	-webkit-transform: rotate(180deg);
+	transform: rotate(180deg);
+}
+
+.pagination .page-numbers{
+	float: right;
+}
+
+.error-holder .text-holder .search-form input[type="search"],
+.page-header .search-form input[type="search"],
+.page-header .search-form label{
+	float: right;
+}
+
+.error-holder .text-holder .search-form label{
+	float: right;
+}
+
+.error-holder .text-holder .search-form input[type="submit"],
+.page-header .search-form input[type="submit"]{
+	float: left;
+}
+
+#crumbs a{
+	display: inline-block;
+}
+
+.comment-navigation .nav-next, .posts-navigation .nav-next, .post-navigation .nav-next{
+	float: left;
+	text-align: left;
+}
+
+.comment-navigation .nav-previous, .posts-navigation .nav-previous, .post-navigation .nav-previous{
+	float: right;
+	text-align: right;
+}
+
+.post-navigation .nav-links div.nav-next a{
+	padding-left: 55px;
+	padding-right: 5px;
+}
+
+.post-navigation .nav-links div.nav-next a .fa{
+	left: 0;
+	right: auto;
+	-webkit-transform: rotate(180deg);
+	transform: rotate(180deg);
+}
+
+.post-navigation .nav-links a{
+	padding-left: 5px;
+	padding-right: 55px;
+}
+
+.post-navigation .nav-links a .fa{
+	left: auto;
+	right: 0;
+	-webkit-transform: rotate(180deg);
+	transform: rotate(180deg);
+}
+
+.comments-area .comment-body .comment-meta{
+	float: right;
+	margin-right: 0;
+	margin-left: 20px;
+}
+
+.comments-area .comment-body .text-holder .top .left{
+	float: right;
+}
+
+.comments-area .comment-body .text-holder .top .reply{
+	float: left;
+}
+
+.comments-area .children{
+	margin-left: 0;
+	margin-right: 25px;
+}
+
+.comments-area .children li{
+	padding-left: 0;
+	padding-right: 30px;
+}
+
+#primary .post .entry-footer .tag a{
+	float: right;
+	margin-left: 10px;
+	margin-right:0;
+}
+
+#primary .post .entry-content ol > li::before, #primary .page .entry-content ol > li::before{
+	display: inline-block;
+	margin-right: 0;
+	margin-left: 15px;
+
+}
+
+#primary .post .entry-content ul > li::before, #primary .page .entry-content ul > li::before{
+	margin-right: 0;
+	margin-left: 15px;
+	display: inline-block;
+	-webkit-transform: rotate(180deg);
+	transform: rotate(180deg);
+}
+
+#primary .post .entry-content table thead th, #primary .page .entry-content table thead th{
+	text-align: right;
+}
+
+.wp-caption .wp-caption-text{
+	left: auto;
+	right: 20px;
+}
+
+.main-navigation ul li .fa{
+	left: 0;
+	right: auto;
+}
+
+@media only screen and (max-width: 1024px){
+    .main-navigation ul ul{
+    	margin-left: 0;
+    	margin-right: 20px;
+    }
+}

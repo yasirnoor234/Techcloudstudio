@@ -1,0 +1,518 @@
+
+---Downloaded files---
+The import files for: Theme Demo Content were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://localhost:81/businesspoint
+Data file = C:\xampp\htdocs\businesspoint/wp-content/themes/business-point/includes/demo/demo-content/content.xml
+Widget file = C:\xampp\htdocs\businesspoint/wp-content/themes/business-point/includes/demo/demo-content/widget.wie
+Customizer file = C:\xampp\htdocs\businesspoint/wp-content/themes/business-point/includes/demo/demo-content/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import ptta-team-categories Administration
+[WARNING] Failed to import ptta-team-categories Content
+[WARNING] Failed to import ptta-portfolio-categories CSS
+[WARNING] Failed to import ptta-team-categories Design
+[WARNING] Failed to import ptta-team-categories Development
+[WARNING] Failed to import ptta-portfolio-categories HTML
+[WARNING] Failed to import ptta-testimonials-categories Quality
+[WARNING] Failed to import ptta-testimonials-categories Support
+[WARNING] Failed to import ptta-portfolio-categories Web Design
+[WARNING] Failed to import ptta-portfolio-categories Web Development
+[WARNING] Failed to import ptta-portfolio-categories Woo-Commerce
+[WARNING] Failed to import ptta-portfolio-categories WordPress
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ptta-team-categories Administration
+[WARNING] Failed to import ptta-team-categories Content
+[WARNING] Failed to import ptta-portfolio-categories CSS
+[WARNING] Failed to import ptta-team-categories Design
+[WARNING] Failed to import ptta-team-categories Development
+[WARNING] Failed to import ptta-portfolio-categories HTML
+[WARNING] Failed to import ptta-testimonials-categories Quality
+[WARNING] Failed to import ptta-testimonials-categories Support
+[WARNING] Failed to import ptta-portfolio-categories Web Design
+[WARNING] Failed to import ptta-portfolio-categories Web Development
+[WARNING] Failed to import ptta-portfolio-categories Woo-Commerce
+[WARNING] Failed to import ptta-portfolio-categories WordPress
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ptta-team-categories Administration
+[WARNING] Failed to import ptta-team-categories Content
+[WARNING] Failed to import ptta-portfolio-categories CSS
+[WARNING] Failed to import ptta-team-categories Design
+[WARNING] Failed to import ptta-team-categories Development
+[WARNING] Failed to import ptta-portfolio-categories HTML
+[WARNING] Failed to import ptta-testimonials-categories Quality
+[WARNING] Failed to import ptta-testimonials-categories Support
+[WARNING] Failed to import ptta-portfolio-categories Web Design
+[WARNING] Failed to import ptta-portfolio-categories Web Development
+[WARNING] Failed to import ptta-portfolio-categories Woo-Commerce
+[WARNING] Failed to import ptta-portfolio-categories WordPress
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ptta-team-categories Administration
+[WARNING] Failed to import ptta-team-categories Content
+[WARNING] Failed to import ptta-portfolio-categories CSS
+[WARNING] Failed to import ptta-team-categories Design
+[WARNING] Failed to import ptta-team-categories Development
+[WARNING] Failed to import ptta-portfolio-categories HTML
+[WARNING] Failed to import ptta-testimonials-categories Quality
+[WARNING] Failed to import ptta-testimonials-categories Support
+[WARNING] Failed to import ptta-portfolio-categories Web Design
+[WARNING] Failed to import ptta-portfolio-categories Web Development
+[WARNING] Failed to import ptta-portfolio-categories Woo-Commerce
+[WARNING] Failed to import ptta-portfolio-categories WordPress
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ptta-team-categories Administration
+[WARNING] Failed to import ptta-team-categories Content
+[WARNING] Failed to import ptta-portfolio-categories CSS
+[WARNING] Failed to import ptta-team-categories Design
+[WARNING] Failed to import ptta-team-categories Development
+[WARNING] Failed to import ptta-portfolio-categories HTML
+[WARNING] Failed to import ptta-testimonials-categories Quality
+[WARNING] Failed to import ptta-testimonials-categories Support
+[WARNING] Failed to import ptta-portfolio-categories Web Design
+[WARNING] Failed to import ptta-portfolio-categories Web Development
+[WARNING] Failed to import ptta-portfolio-categories Woo-Commerce
+[WARNING] Failed to import ptta-portfolio-categories WordPress
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ptta-team-categories Administration
+[WARNING] Failed to import ptta-team-categories Content
+[WARNING] Failed to import ptta-portfolio-categories CSS
+[WARNING] Failed to import ptta-team-categories Design
+[WARNING] Failed to import ptta-team-categories Development
+[WARNING] Failed to import ptta-portfolio-categories HTML
+[WARNING] Failed to import ptta-testimonials-categories Quality
+[WARNING] Failed to import ptta-testimonials-categories Support
+[WARNING] Failed to import ptta-portfolio-categories Web Design
+[WARNING] Failed to import ptta-portfolio-categories Web Development
+[WARNING] Failed to import ptta-portfolio-categories Woo-Commerce
+[WARNING] Failed to import ptta-portfolio-categories WordPress
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ptta-team-categories Administration
+[WARNING] Failed to import ptta-team-categories Content
+[WARNING] Failed to import ptta-portfolio-categories CSS
+[WARNING] Failed to import ptta-team-categories Design
+[WARNING] Failed to import ptta-team-categories Development
+[WARNING] Failed to import ptta-portfolio-categories HTML
+[WARNING] Failed to import ptta-testimonials-categories Quality
+[WARNING] Failed to import ptta-testimonials-categories Support
+[WARNING] Failed to import ptta-portfolio-categories Web Design
+[WARNING] Failed to import ptta-portfolio-categories Web Development
+[WARNING] Failed to import ptta-portfolio-categories Woo-Commerce
+[WARNING] Failed to import ptta-portfolio-categories WordPress
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ptta-team-categories Administration
+[WARNING] Failed to import ptta-team-categories Content
+[WARNING] Failed to import ptta-portfolio-categories CSS
+[WARNING] Failed to import ptta-team-categories Design
+[WARNING] Failed to import ptta-team-categories Development
+[WARNING] Failed to import ptta-portfolio-categories HTML
+[WARNING] Failed to import ptta-testimonials-categories Quality
+[WARNING] Failed to import ptta-testimonials-categories Support
+[WARNING] Failed to import ptta-portfolio-categories Web Design
+[WARNING] Failed to import ptta-portfolio-categories Web Development
+[WARNING] Failed to import ptta-portfolio-categories Woo-Commerce
+[WARNING] Failed to import ptta-portfolio-categories WordPress
+[ERROR] Failed to import "architecture-2476230_1920" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ptta-team-categories Administration
+[WARNING] Failed to import ptta-team-categories Content
+[WARNING] Failed to import ptta-portfolio-categories CSS
+[WARNING] Failed to import ptta-team-categories Design
+[WARNING] Failed to import ptta-team-categories Development
+[WARNING] Failed to import ptta-portfolio-categories HTML
+[WARNING] Failed to import ptta-testimonials-categories Quality
+[WARNING] Failed to import ptta-testimonials-categories Support
+[WARNING] Failed to import ptta-portfolio-categories Web Design
+[WARNING] Failed to import ptta-portfolio-categories Web Development
+[WARNING] Failed to import ptta-portfolio-categories Woo-Commerce
+[WARNING] Failed to import ptta-portfolio-categories WordPress
+[ERROR] Failed to import "architecture-2476230_1920" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ptta-team-categories Administration
+[WARNING] Failed to import ptta-team-categories Content
+[WARNING] Failed to import ptta-portfolio-categories CSS
+[WARNING] Failed to import ptta-team-categories Design
+[WARNING] Failed to import ptta-team-categories Development
+[WARNING] Failed to import ptta-portfolio-categories HTML
+[WARNING] Failed to import ptta-testimonials-categories Quality
+[WARNING] Failed to import ptta-testimonials-categories Support
+[WARNING] Failed to import ptta-portfolio-categories Web Design
+[WARNING] Failed to import ptta-portfolio-categories Web Development
+[WARNING] Failed to import ptta-portfolio-categories Woo-Commerce
+[WARNING] Failed to import ptta-portfolio-categories WordPress
+[ERROR] Failed to import "architecture-2476230_1920" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ptta-team-categories Administration
+[WARNING] Failed to import ptta-team-categories Content
+[WARNING] Failed to import ptta-portfolio-categories CSS
+[WARNING] Failed to import ptta-team-categories Design
+[WARNING] Failed to import ptta-team-categories Development
+[WARNING] Failed to import ptta-portfolio-categories HTML
+[WARNING] Failed to import ptta-testimonials-categories Quality
+[WARNING] Failed to import ptta-testimonials-categories Support
+[WARNING] Failed to import ptta-portfolio-categories Web Design
+[WARNING] Failed to import ptta-portfolio-categories Web Development
+[WARNING] Failed to import ptta-portfolio-categories Woo-Commerce
+[WARNING] Failed to import ptta-portfolio-categories WordPress
+[ERROR] Failed to import "architecture-2476230_1920" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ptta-team-categories Administration
+[WARNING] Failed to import ptta-team-categories Content
+[WARNING] Failed to import ptta-portfolio-categories CSS
+[WARNING] Failed to import ptta-team-categories Design
+[WARNING] Failed to import ptta-team-categories Development
+[WARNING] Failed to import ptta-portfolio-categories HTML
+[WARNING] Failed to import ptta-testimonials-categories Quality
+[WARNING] Failed to import ptta-testimonials-categories Support
+[WARNING] Failed to import ptta-portfolio-categories Web Design
+[WARNING] Failed to import ptta-portfolio-categories Web Development
+[WARNING] Failed to import ptta-portfolio-categories Woo-Commerce
+[WARNING] Failed to import ptta-portfolio-categories WordPress
+[ERROR] Failed to import "architecture-2476230_1920" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ptta-team-categories Administration
+[WARNING] Failed to import ptta-team-categories Content
+[WARNING] Failed to import ptta-portfolio-categories CSS
+[WARNING] Failed to import ptta-team-categories Design
+[WARNING] Failed to import ptta-team-categories Development
+[WARNING] Failed to import ptta-portfolio-categories HTML
+[WARNING] Failed to import ptta-testimonials-categories Quality
+[WARNING] Failed to import ptta-testimonials-categories Support
+[WARNING] Failed to import ptta-portfolio-categories Web Design
+[WARNING] Failed to import ptta-portfolio-categories Web Development
+[WARNING] Failed to import ptta-portfolio-categories Woo-Commerce
+[WARNING] Failed to import ptta-portfolio-categories WordPress
+[ERROR] Failed to import "architecture-2476230_1920" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ptta-team-categories Administration
+[WARNING] Failed to import ptta-team-categories Content
+[WARNING] Failed to import ptta-portfolio-categories CSS
+[WARNING] Failed to import ptta-team-categories Design
+[WARNING] Failed to import ptta-team-categories Development
+[WARNING] Failed to import ptta-portfolio-categories HTML
+[WARNING] Failed to import ptta-testimonials-categories Quality
+[WARNING] Failed to import ptta-testimonials-categories Support
+[WARNING] Failed to import ptta-portfolio-categories Web Design
+[WARNING] Failed to import ptta-portfolio-categories Web Development
+[WARNING] Failed to import ptta-portfolio-categories Woo-Commerce
+[WARNING] Failed to import ptta-portfolio-categories WordPress
+[ERROR] Failed to import "architecture-2476230_1920" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ptta-team-categories Administration
+[WARNING] Failed to import ptta-team-categories Content
+[WARNING] Failed to import ptta-portfolio-categories CSS
+[WARNING] Failed to import ptta-team-categories Design
+[WARNING] Failed to import ptta-team-categories Development
+[WARNING] Failed to import ptta-portfolio-categories HTML
+[WARNING] Failed to import ptta-testimonials-categories Quality
+[WARNING] Failed to import ptta-testimonials-categories Support
+[WARNING] Failed to import ptta-portfolio-categories Web Design
+[WARNING] Failed to import ptta-portfolio-categories Web Development
+[WARNING] Failed to import ptta-portfolio-categories Woo-Commerce
+[WARNING] Failed to import ptta-portfolio-categories WordPress
+[ERROR] Failed to import "architecture-2476230_1920" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ptta-team-categories Administration
+[WARNING] Failed to import ptta-team-categories Content
+[WARNING] Failed to import ptta-portfolio-categories CSS
+[WARNING] Failed to import ptta-team-categories Design
+[WARNING] Failed to import ptta-team-categories Development
+[WARNING] Failed to import ptta-portfolio-categories HTML
+[WARNING] Failed to import ptta-testimonials-categories Quality
+[WARNING] Failed to import ptta-testimonials-categories Support
+[WARNING] Failed to import ptta-portfolio-categories Web Design
+[WARNING] Failed to import ptta-portfolio-categories Web Development
+[WARNING] Failed to import ptta-portfolio-categories Woo-Commerce
+[WARNING] Failed to import ptta-portfolio-categories WordPress
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ptta-team-categories Administration
+[WARNING] Failed to import ptta-team-categories Content
+[WARNING] Failed to import ptta-portfolio-categories CSS
+[WARNING] Failed to import ptta-team-categories Design
+[WARNING] Failed to import ptta-team-categories Development
+[WARNING] Failed to import ptta-portfolio-categories HTML
+[WARNING] Failed to import ptta-testimonials-categories Quality
+[WARNING] Failed to import ptta-testimonials-categories Support
+[WARNING] Failed to import ptta-portfolio-categories Web Design
+[WARNING] Failed to import ptta-portfolio-categories Web Development
+[WARNING] Failed to import ptta-portfolio-categories Woo-Commerce
+[WARNING] Failed to import ptta-portfolio-categories WordPress
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ptta-team-categories Administration
+[WARNING] Failed to import ptta-team-categories Content
+[WARNING] Failed to import ptta-portfolio-categories CSS
+[WARNING] Failed to import ptta-team-categories Design
+[WARNING] Failed to import ptta-team-categories Development
+[WARNING] Failed to import ptta-portfolio-categories HTML
+[WARNING] Failed to import ptta-testimonials-categories Quality
+[WARNING] Failed to import ptta-testimonials-categories Support
+[WARNING] Failed to import ptta-portfolio-categories Web Design
+[WARNING] Failed to import ptta-portfolio-categories Web Development
+[WARNING] Failed to import ptta-portfolio-categories Woo-Commerce
+[WARNING] Failed to import ptta-portfolio-categories WordPress
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ptta-team-categories Administration
+[WARNING] Failed to import ptta-team-categories Content
+[WARNING] Failed to import ptta-portfolio-categories CSS
+[WARNING] Failed to import ptta-team-categories Design
+[WARNING] Failed to import ptta-team-categories Development
+[WARNING] Failed to import ptta-portfolio-categories HTML
+[WARNING] Failed to import ptta-testimonials-categories Quality
+[WARNING] Failed to import ptta-testimonials-categories Support
+[WARNING] Failed to import ptta-portfolio-categories Web Design
+[WARNING] Failed to import ptta-portfolio-categories Web Development
+[WARNING] Failed to import ptta-portfolio-categories Woo-Commerce
+[WARNING] Failed to import ptta-portfolio-categories WordPress
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ptta-team-categories Administration
+[WARNING] Failed to import ptta-team-categories Content
+[WARNING] Failed to import ptta-portfolio-categories CSS
+[WARNING] Failed to import ptta-team-categories Design
+[WARNING] Failed to import ptta-team-categories Development
+[WARNING] Failed to import ptta-portfolio-categories HTML
+[WARNING] Failed to import ptta-testimonials-categories Quality
+[WARNING] Failed to import ptta-testimonials-categories Support
+[WARNING] Failed to import ptta-portfolio-categories Web Design
+[WARNING] Failed to import ptta-portfolio-categories Web Development
+[WARNING] Failed to import ptta-portfolio-categories Woo-Commerce
+[WARNING] Failed to import ptta-portfolio-categories WordPress
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ptta-team-categories Administration
+[WARNING] Failed to import ptta-team-categories Content
+[WARNING] Failed to import ptta-portfolio-categories CSS
+[WARNING] Failed to import ptta-team-categories Design
+[WARNING] Failed to import ptta-team-categories Development
+[WARNING] Failed to import ptta-portfolio-categories HTML
+[WARNING] Failed to import ptta-testimonials-categories Quality
+[WARNING] Failed to import ptta-testimonials-categories Support
+[WARNING] Failed to import ptta-portfolio-categories Web Design
+[WARNING] Failed to import ptta-portfolio-categories Web Development
+[WARNING] Failed to import ptta-portfolio-categories Woo-Commerce
+[WARNING] Failed to import ptta-portfolio-categories WordPress
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ptta-team-categories Administration
+[WARNING] Failed to import ptta-team-categories Content
+[WARNING] Failed to import ptta-portfolio-categories CSS
+[WARNING] Failed to import ptta-team-categories Design
+[WARNING] Failed to import ptta-team-categories Development
+[WARNING] Failed to import ptta-portfolio-categories HTML
+[WARNING] Failed to import ptta-testimonials-categories Quality
+[WARNING] Failed to import ptta-testimonials-categories Support
+[WARNING] Failed to import ptta-portfolio-categories Web Design
+[WARNING] Failed to import ptta-portfolio-categories Web Development
+[WARNING] Failed to import ptta-portfolio-categories Woo-Commerce
+[WARNING] Failed to import ptta-portfolio-categories WordPress
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ptta-team-categories Administration
+[WARNING] Failed to import ptta-team-categories Content
+[WARNING] Failed to import ptta-portfolio-categories CSS
+[WARNING] Failed to import ptta-team-categories Design
+[WARNING] Failed to import ptta-team-categories Development
+[WARNING] Failed to import ptta-portfolio-categories HTML
+[WARNING] Failed to import ptta-testimonials-categories Quality
+[WARNING] Failed to import ptta-testimonials-categories Support
+[WARNING] Failed to import ptta-portfolio-categories Web Design
+[WARNING] Failed to import ptta-portfolio-categories Web Development
+[WARNING] Failed to import ptta-portfolio-categories Woo-Commerce
+[WARNING] Failed to import ptta-portfolio-categories WordPress
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ptta-team-categories Administration
+[WARNING] Failed to import ptta-team-categories Content
+[WARNING] Failed to import ptta-portfolio-categories CSS
+[WARNING] Failed to import ptta-team-categories Design
+[WARNING] Failed to import ptta-team-categories Development
+[WARNING] Failed to import ptta-portfolio-categories HTML
+[WARNING] Failed to import ptta-testimonials-categories Quality
+[WARNING] Failed to import ptta-testimonials-categories Support
+[WARNING] Failed to import ptta-portfolio-categories Web Design
+[WARNING] Failed to import ptta-portfolio-categories Web Development
+[WARNING] Failed to import ptta-portfolio-categories Woo-Commerce
+[WARNING] Failed to import ptta-portfolio-categories WordPress
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ptta-team-categories Administration
+[WARNING] Failed to import ptta-team-categories Content
+[WARNING] Failed to import ptta-portfolio-categories CSS
+[WARNING] Failed to import ptta-team-categories Design
+[WARNING] Failed to import ptta-team-categories Development
+[WARNING] Failed to import ptta-portfolio-categories HTML
+[WARNING] Failed to import ptta-testimonials-categories Quality
+[WARNING] Failed to import ptta-testimonials-categories Support
+[WARNING] Failed to import ptta-portfolio-categories Web Design
+[WARNING] Failed to import ptta-portfolio-categories Web Development
+[WARNING] Failed to import ptta-portfolio-categories Woo-Commerce
+[WARNING] Failed to import ptta-portfolio-categories WordPress
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ptta-team-categories Administration
+[WARNING] Failed to import ptta-team-categories Content
+[WARNING] Failed to import ptta-portfolio-categories CSS
+[WARNING] Failed to import ptta-team-categories Design
+[WARNING] Failed to import ptta-team-categories Development
+[WARNING] Failed to import ptta-portfolio-categories HTML
+[WARNING] Failed to import ptta-testimonials-categories Quality
+[WARNING] Failed to import ptta-testimonials-categories Support
+[WARNING] Failed to import ptta-portfolio-categories Web Design
+[WARNING] Failed to import ptta-portfolio-categories Web Development
+[WARNING] Failed to import ptta-portfolio-categories Woo-Commerce
+[WARNING] Failed to import ptta-portfolio-categories WordPress
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ptta-team-categories Administration
+[WARNING] Failed to import ptta-team-categories Content
+[WARNING] Failed to import ptta-portfolio-categories CSS
+[WARNING] Failed to import ptta-team-categories Design
+[WARNING] Failed to import ptta-team-categories Development
+[WARNING] Failed to import ptta-portfolio-categories HTML
+[WARNING] Failed to import ptta-testimonials-categories Quality
+[WARNING] Failed to import ptta-testimonials-categories Support
+[WARNING] Failed to import ptta-portfolio-categories Web Design
+[WARNING] Failed to import ptta-portfolio-categories Web Development
+[WARNING] Failed to import ptta-portfolio-categories Woo-Commerce
+[WARNING] Failed to import ptta-portfolio-categories WordPress
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ptta-team-categories Administration
+[WARNING] Failed to import ptta-team-categories Content
+[WARNING] Failed to import ptta-portfolio-categories CSS
+[WARNING] Failed to import ptta-team-categories Design
+[WARNING] Failed to import ptta-team-categories Development
+[WARNING] Failed to import ptta-portfolio-categories HTML
+[WARNING] Failed to import ptta-testimonials-categories Quality
+[WARNING] Failed to import ptta-testimonials-categories Support
+[WARNING] Failed to import ptta-portfolio-categories Web Design
+[WARNING] Failed to import ptta-portfolio-categories Web Development
+[WARNING] Failed to import ptta-portfolio-categories Woo-Commerce
+[WARNING] Failed to import ptta-portfolio-categories WordPress
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ptta-team-categories Administration
+[WARNING] Failed to import ptta-team-categories Content
+[WARNING] Failed to import ptta-portfolio-categories CSS
+[WARNING] Failed to import ptta-team-categories Design
+[WARNING] Failed to import ptta-team-categories Development
+[WARNING] Failed to import ptta-portfolio-categories HTML
+[WARNING] Failed to import ptta-testimonials-categories Quality
+[WARNING] Failed to import ptta-testimonials-categories Support
+[WARNING] Failed to import ptta-portfolio-categories Web Design
+[WARNING] Failed to import ptta-portfolio-categories Web Development
+[WARNING] Failed to import ptta-portfolio-categories Woo-Commerce
+[WARNING] Failed to import ptta-portfolio-categories WordPress
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ptta-team-categories Administration
+[WARNING] Failed to import ptta-team-categories Content
+[WARNING] Failed to import ptta-portfolio-categories CSS
+[WARNING] Failed to import ptta-team-categories Design
+[WARNING] Failed to import ptta-team-categories Development
+[WARNING] Failed to import ptta-portfolio-categories HTML
+[WARNING] Failed to import ptta-testimonials-categories Quality
+[WARNING] Failed to import ptta-testimonials-categories Support
+[WARNING] Failed to import ptta-portfolio-categories Web Design
+[WARNING] Failed to import ptta-portfolio-categories Web Development
+[WARNING] Failed to import ptta-portfolio-categories Woo-Commerce
+[WARNING] Failed to import ptta-portfolio-categories WordPress
+[ERROR] Failed to import "" (Navigation Menu Item)
+[WARNING] Failed to import "Promenade Themes": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import ptta-team-categories Administration
+[WARNING] Failed to import ptta-team-categories Content
+[WARNING] Failed to import ptta-portfolio-categories CSS
+[WARNING] Failed to import ptta-team-categories Design
+[WARNING] Failed to import ptta-team-categories Development
+[WARNING] Failed to import ptta-portfolio-categories HTML
+[WARNING] Failed to import ptta-testimonials-categories Quality
+[WARNING] Failed to import ptta-testimonials-categories Support
+[WARNING] Failed to import ptta-portfolio-categories Web Design
+[WARNING] Failed to import ptta-portfolio-categories Web Development
+[WARNING] Failed to import ptta-portfolio-categories Woo-Commerce
+[WARNING] Failed to import ptta-portfolio-categories WordPress
+[WARNING] Failed to import "Promenade Themes": Invalid post type mc4wp-form
+
